@@ -1,6 +1,6 @@
-# 🌌 Solar Orbit – Animated Planetary Showcase
+# 🌌 Solar Explorer – Animated Planetary Showcase
 
-An interactive Solar System project made **only with HTML and CSS**.  
+An interactive Solar System Explorer project made **only with HTML and CSS**.  
 Explore all 8 planets with key facts and enjoy smooth, eye-catching animations when switching between them.
 
 ## 🚀 Features
